@@ -1,6 +1,6 @@
 
 
-# Gatekeeper
+# Gatekeeper - Developed for iOS using React Native
 
 
 ## An exercise to build out Auth Flow using Firebase with React Native; practice creating form and login logic.
