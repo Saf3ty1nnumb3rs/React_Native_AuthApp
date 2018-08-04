@@ -7,5 +7,5 @@
 
 ### Secondary Goal - creating truly reusable components that can be utilized within any project. Developing a base of common components that may be incorporated and modified as needed.
 
-* React Native
+* React Native 0.56.0
 * Firebase
