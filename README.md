@@ -10,8 +10,7 @@
 
 ## <a href="https://github.com/Saf3ty1nnumb3rs/React_Native_AuthApp"> Github Repo </a>
 
-## <a name="JoshLink" href="https://www.linkedin.com/in/joshsample/">
-Linked In</a>
+## <a name="JoshLink" href="https://www.linkedin.com/in/joshsample/"> Linked In </a>
 
 ## Technologies utilized
 
