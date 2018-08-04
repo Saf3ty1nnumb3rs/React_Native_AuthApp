@@ -1,0 +1,3 @@
+rootProject.name = 'gate_keeper'
+
+include ':app'
